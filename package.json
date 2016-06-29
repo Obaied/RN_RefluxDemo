@@ -1,0 +1,15 @@
+{
+  "name": "RefluxDemo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "md5": "^2.1.0",
+    "moment": "^2.13.0",
+    "react": "15.1.0",
+    "react-native": "^0.28.0",
+    "reflux": "^0.4.1"
+  }
+}
